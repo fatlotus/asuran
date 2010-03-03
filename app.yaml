@@ -4,5 +4,5 @@ api_version: 1
 version: 1
 
 handlers:
-- url: /_as/upload
+- url: /
   script: main.py
