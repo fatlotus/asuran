@@ -1,0 +1,8 @@
+application: fatlotus-app
+runtime: python
+api_version: 1
+version: 1
+
+handlers:
+- url: /_as/upload
+  script: main.py
