@@ -1,7 +1,7 @@
 application: fatlotus-app
 runtime: python
 api_version: 1
-version: 1
+version: alpha
 
 handlers:
 - url: /
